@@ -1,4 +1,1 @@
-#!/binbash
-echo *school >> school
-echo echo school
-echo school
+echo "The school is open"
