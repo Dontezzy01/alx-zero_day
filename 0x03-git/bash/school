@@ -1,0 +1,4 @@
+#!/binbash
+echo *school >> school
+echo echo school
+echo school
